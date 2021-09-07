@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashirmalik&label=Profile%20views&color=0e75b6&style=flat" alt="mubashirmalik" /> </p>
 
 
-- 🌱 I’m currently working with **flutter**
+- 🌱 I’m currently working in **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mubashirmalik?tab=repositories](https://github.com/mubashirmalik?tab=repositories)
 
