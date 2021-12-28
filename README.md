@@ -14,7 +14,7 @@
 
 - 💬 Talk to me about **01100001 01101110 01111001 01110100 01101000 01101001 01101110 01100111**
 
-- 📫 Reach me at **imubasherahmad@gmail.com**
+- 📫 Reach me at **i180481@nu.edu.pk**
 
 - ⚡ Fun Quote **The more I practice the luckier I get.**
 
