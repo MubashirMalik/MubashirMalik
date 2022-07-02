@@ -28,7 +28,7 @@
 </p>
 
 <h2 align="left">Trophies</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubashirmalik&theme=onedark" alt="mubashirmalik" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubashirmalik&theme=onestar" alt="mubashirmalik" /></a> </p>
 
 
 
@@ -62,13 +62,13 @@
 
 
 <h2 align="left">GitHub Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashirmalik&show_icons=true&locale=en&layout=compact&theme=onedark" alt="mubashirmalik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashirmalik&show_icons=true&locale=en&layout=compact&theme=onestar" alt="mubashirmalik" /></p>
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mubashirmalik&show_icons=true&locale=en&theme=onedark" alt="mubashirmalik" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mubashirmalik&show_icons=true&locale=en&theme=onestar" alt="mubashirmalik" /></p>
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirmalik&&theme=onedark" alt="mubashirmalik" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirmalik&&theme=onestar" alt="mubashirmalik" /></p>
 
