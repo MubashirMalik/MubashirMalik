@@ -62,13 +62,13 @@
 
 
 <h2 align="left">GitHub Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashirmalik&show_icons=true&locale=en&layout=compact&theme=onestar" alt="mubashirmalik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashirmalik&show_icons=true&locale=en&layout=compact&theme=nord" alt="mubashirmalik" /></p>
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mubashirmalik&show_icons=true&locale=en&theme=onestar" alt="mubashirmalik" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mubashirmalik&show_icons=true&locale=en&theme=nord" alt="mubashirmalik" /></p>
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirmalik&&theme=onestar" alt="mubashirmalik" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirmalik&&theme=nord" alt="mubashirmalik" /></p>
 
