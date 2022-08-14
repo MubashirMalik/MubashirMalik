@@ -62,7 +62,7 @@
 
 
 <h2 align="left">GitHub Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashirmalik&hide=jupyter notebook&show_icons=true&locale=en&layout=compact&theme=nord" alt="mubashirmalik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashirmalik&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&theme=nord" alt="mubashirmalik" /></p>
 
 
 
