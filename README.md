@@ -21,7 +21,7 @@
 <h2 align="left">Connect with me</h2>
 <p align="left">
 <a href="https://twitter.com/iMubashir0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mubashirmalik0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mubashir-ahmed-514734175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubashirmalik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mubashir0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubashirmalik" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11031049/mubashir-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17246855" height="30" width="40" /></a>
 <a href="https://fb.com/mubashirrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubashirmalik" height="30" width="40" /></a>
 <a href="https://instagram.com/mubashermalick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubashirmalik" height="30" width="40" /></a>
